@@ -61,4 +61,4 @@ The decks in `examples/` and their screenshots are [CC BY 4.0](LICENSE-CC-BY-4.0
 
 ---
 
-<sub>Part of [AI Build Log](https://github.com/96jjrevorio/ai-build-log) · by [Julián Revorio](https://www.linkedin.com/in/julianrevorio/)</sub>
+<sub>Part of [AI Build Log](https://github.com/julianreves/ai-build-log) · by [Julián Revorio](https://www.linkedin.com/in/julianrevorio/)</sub>
